@@ -1,5 +1,5 @@
 # Dashboard-Wpf
-Simple dashboard template for wpf projects, You can use for free, learning etc \ it implements the grid system
+Simple dashboard template for C# WPF projects, you can use it in your projects for free, learning purposes, etc. The template implements the grid system and a custom animation clash for the sidebar.
 
 # Tools used
 -Wpf\
